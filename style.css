@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0px;
+}
+ul {
+    list-style-type: none;
+    margin: 02;
+    padding: 5px;
+    overflow:hidden;
+    background-color: rgb(0, 0, 0);
+    
+  }
+
+li a{
+    float: right;
+  }
+
+li a{
+    display:flex;
+    color: rgb(187, 187, 187);
+    padding: 10px 13px;
+    text-decoration: none;
+}
+
+li a:hover{
+    background-color: rgba(255, 255, 255, 0.984);
+    color: rgb(0, 0, 0);
+}
+
+body {
+    text-align: center;
+    background-color: rgb(215, 215, 215);
+}
+
+ img{
+    height: 50px;
+    width: 50px;
+ }
+ 
+ .college-pic{
+    width: 250px;
+    height: 170px;
+    border-radius: 300px;
+ }
+
+
+
+    p{
+        font-size: large;
+        font-style: normal;
+        font-family: 'Times New Roman', Times, serif;
+    }
+
+section {
+    padding: 10px;
+    font-size: large;
+    box-sizing: content-box;
+}
+
+.image{
+    border-inline-start-color: black;
+    margin-top: 160px;
+    width: auto;
+    text-align: right;
+    
+    
+}
+
+.seb{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+}
+.icon{
+    border-radius: 100px;
+    margin: 0 3px;
+    padding:2px;
+
+}
+
+button{
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+    border: none;
+}
+button:hover{
+    background-color: rgb(0, 28, 85);
+    color: white;
+}
+input{
+    padding: 12px 12px 12px 12px;
+    border-radius: 18px;
+    border: none;
+}
